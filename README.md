@@ -1,1 +1,1 @@
-Primer trabajo para asignatura front-end, aplicación de FLEXBOX ordenamiento de contenedores y cajas para seguir un layout dentro de la web, uso de ID para poder hacer SCROLL dentro de la pagina dando click a un boton dentro del menu de navegacion.
+Primer trabajo para asignatura front-end, aplicación de FLEXBOX ordenamiento de contenedores y cajas para seguir un layout dentro de la web, uso de ID para poder hacer SCROLL dentro de la pagina dando click a un boton dentro del menu de navegacion como por ejemplo: <a href="#HOME" class="menuNavegable"><b>Home</b></a>
